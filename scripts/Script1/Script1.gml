@@ -1,0 +1,1 @@
+global.dialogue2trigger = 0
