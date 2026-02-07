@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"forebodingahhbeat",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":32.0,
+  "exportDir":"",
+  "name":"forebodingahhbeat",
+  "parent":{
+    "name":"funnifunnidungeon",
+    "path":"funnifunnidungeon.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"forebodingahhbeat.wav",
+  "volume":1.0,
+}

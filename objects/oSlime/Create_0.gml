@@ -1,0 +1,3 @@
+slimespeed = 0.4
+
+alarm[0] = 150
